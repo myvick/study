@@ -3,3 +3,4 @@ Create a new branch is quick.
 & simple.new master.
 Create a new branch is quick and simple.
 new dev.
+add stach.
