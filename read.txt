@@ -1,5 +1,5 @@
 git is a version control software.
-Create a new branch is quick.
+Create a new branch is quick.add master stash
 & simple.new master.
 Create a new branch is quick and simple.
 new dev.
